@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b36107e00294bfc89456b18a360326, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  isMelee: 0
+  skin: {fileID: 4665553824361413480, guid: 21fd9e099fd6d4d2ba47d42a1883277b, type: 3}
+  bulletSkin: {fileID: 1360291929752302963, guid: e7c8d3666b37a4a82bbe99a9457209e1,
+    type: 3}
+  catridgeSkin: {fileID: 1360291929752302963, guid: d10f5cb82530347a3878ef3198c0566b,
+    type: 3}
+  ID: Shotgun
+  damage: 40
+  reloadTime: 3
+  rateOfFire: 0.5
+  accuracy: 0
+  rangeOfFire: 50
+  cartridgesCount: 2
+  catridgeCaseMass: 1
+  catridgeCaseForce: 5
+  catridgeCaseTorque:
+  - -10000
+  - 10000
+  catridgeCaseScale: 2
+  catridgeCaseDestroyTime: 3
+  catridgeCaseDirectionRight:
+  - 1
+  - 3
+  catridgeCaseDirectionUp:
+  - 1
+  - 1
+  catridgeCaseDirectionForward:
+  - -1
+  - 0
+  bulletSpeed: 30
+  bulletLoadScale: 0
+  bulletScale: 5
+  muzzleFlashScale:
+  - 1
+  - 1.5
+  offsetTimeForward: 0.03
+  offsetTimeBackward: 0.05
+  offsetDistance: 0.3

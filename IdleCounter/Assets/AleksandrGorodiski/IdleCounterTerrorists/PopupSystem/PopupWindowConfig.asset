@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5296fb76bb943f4c90128a928558f83, type: 3}
+  m_Name: PopupWindowConfig
+  m_EditorClassIdentifier: 
+  windowPrefabs:
+  - {fileID: 2563823781531026222, guid: 1c7a0c96816516f448349087cfc11eef, type: 3}
+  - {fileID: 3922725762842601041, guid: 0ef4bfec96766c64491bcee831b9a3da, type: 3}
+  - {fileID: 3922725762842601041, guid: 62a1c9ba9c5719642abf0cd7e76c7992, type: 3}
+  - {fileID: 3922725762842601041, guid: 5966e8e48544f964fa0c3628063a2de3, type: 3}
+  notificationCashPrefab: {fileID: 543062017238109721, guid: 1152f0c251e998842acbc277e4b086b7,
+    type: 3}
+  notificationSquadFullPrefab: {fileID: 6215789718347459760, guid: b023223852c8e4997a20f850a5e3bb3e,
+    type: 3}
+  notificationNotEnoughCashPrefab: {fileID: 6215789718347459760, guid: 83a8ea7198f26c840a485cde7f2b1c3a,
+    type: 3}

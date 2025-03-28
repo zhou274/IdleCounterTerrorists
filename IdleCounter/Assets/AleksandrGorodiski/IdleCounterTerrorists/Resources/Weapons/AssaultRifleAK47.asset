@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b36107e00294bfc89456b18a360326, type: 3}
+  m_Name: AssaultRifleAK47
+  m_EditorClassIdentifier: 
+  isMelee: 0
+  skin: {fileID: 4665553824361413480, guid: 7966cbd3ab5b2674bac069bc0e8cb441, type: 3}
+  bulletSkin: {fileID: 9167773636229868280, guid: 140f10a94c37f424fb2129e1b7810001,
+    type: 3}
+  catridgeSkin: {fileID: 1360291929752302963, guid: f2327900ce7574da0b4516214079c510,
+    type: 3}
+  ID: Assault Rifle
+  damage: 10
+  reloadTime: 3
+  rateOfFire: 0.2
+  accuracy: 2
+  rangeOfFire: 50
+  cartridgesCount: 30
+  catridgeCaseMass: 1
+  catridgeCaseForce: 5
+  catridgeCaseTorque:
+  - -10000
+  - 10000
+  catridgeCaseScale: 3
+  catridgeCaseDestroyTime: 3
+  catridgeCaseDirectionRight:
+  - 0.5
+  - 3
+  catridgeCaseDirectionUp:
+  - 1
+  - 1
+  catridgeCaseDirectionForward:
+  - -1
+  - 0
+  bulletSpeed: 30
+  bulletLoadScale: 0
+  bulletScale: 6
+  muzzleFlashScale:
+  - 1.2
+  - 1.6
+  offsetTimeForward: 0.03
+  offsetTimeBackward: 0.04
+  offsetDistance: 0.4

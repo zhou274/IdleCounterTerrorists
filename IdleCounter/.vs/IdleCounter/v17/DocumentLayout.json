@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\IdleCounter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|d:\\unity\\idlecounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\view\\randomanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\view\\randomanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\core\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\core\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\controllers\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\controllers\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\controllers\\buildingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\controllers\\buildingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\controllers\\balancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\controllers\\balancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\configs\\unitconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\configs\\unitconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\configs\\levelconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\configs\\levelconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\configs\\currencyconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\configs\\currencyconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\configs\\buildingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\configs\\buildingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\\u5E38\u7528\u811A\u672C\\ADManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\images\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\images\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\popupsystem\\scripts\\popupwindowbuildingcleared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\popupsystem\\scripts\\popupwindowbuildingcleared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\\u5E38\u7528\u811A\u672C\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\popupsystem\\scripts\\shopslotunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\popupsystem\\scripts\\shopslotunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\view\\balancehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\view\\balancehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\configs\\weaponconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\configs\\weaponconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\view\\gameview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\view\\gameview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\images\\initad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\images\\initad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\utils\\stringutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\scripts\\utils\\stringutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|D:\\Unity\\IdleCounter\\assets\\aleksandrgorodiski\\idlecounterterrorists\\popupsystem\\scripts\\popupwindowshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E0D5A-FDC3-D279-3687-A8627E15EEE3}|Assembly-CSharp.csproj|solutionrelative:assets\\aleksandrgorodiski\\idlecounterterrorists\\popupsystem\\scripts\\popupwindowshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomAnimation.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\View\\RandomAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\View\\RandomAnimation.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\View\\RandomAnimation.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\View\\RandomAnimation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T04:12:45.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuildingController.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Controllers\\BuildingController.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Controllers\\BuildingController.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Controllers\\BuildingController.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Controllers\\BuildingController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T04:11:09.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitConfig.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\UnitConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\UnitConfig.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\UnitConfig.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\UnitConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T04:10:56.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LevelConfig.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\LevelConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\LevelConfig.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\LevelConfig.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\LevelConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T04:10:53.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrencyConfig.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\CurrencyConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\CurrencyConfig.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\CurrencyConfig.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\CurrencyConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T04:10:50.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BuildingConfig.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\BuildingConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\BuildingConfig.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\BuildingConfig.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\BuildingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T04:10:24.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InitAd.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\Images\\InitAd.cs",
+              "RelativeDocumentMoniker": "Assets\\Images\\InitAd.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\Images\\InitAd.cs",
+              "RelativeToolTip": "Assets\\Images\\InitAd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:51:43.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeaponConfig.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\WeaponConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\WeaponConfig.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\WeaponConfig.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Configs\\WeaponConfig.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:37:38.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelController.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Controllers\\LevelController.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Controllers\\LevelController.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Controllers\\LevelController.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Controllers\\LevelController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:29:08.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Core\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Core\\GameController.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Core\\GameController.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Core\\GameController.cs",
+              "ViewState": "AgIAAPABAAAAAAAAAAAAwAkCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:00:00.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PopupWindowBuildingCleared.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\PopupSystem\\Scripts\\PopupWindowBuildingCleared.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\PopupSystem\\Scripts\\PopupWindowBuildingCleared.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\PopupSystem\\Scripts\\PopupWindowBuildingCleared.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\PopupSystem\\Scripts\\PopupWindowBuildingCleared.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAmwG4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:33:29.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ADManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u5E38\u7528\u811A\u672C\\ADManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u5E38\u7528\u811A\u672C\\ADManager.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:54:08.744Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u5E38\u7528\u811A\u672C\\Ball.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u5E38\u7528\u811A\u672C\\Ball.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAFEAAAAAAAAAAADwv10AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:54:12.697Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BalanceController.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Controllers\\BalanceController.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Controllers\\BalanceController.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Controllers\\BalanceController.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Controllers\\BalanceController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:30:32.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CebianlanManager.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\Images\\CebianlanManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Images\\CebianlanManager.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\Images\\CebianlanManager.cs",
+              "RelativeToolTip": "Assets\\Images\\CebianlanManager.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:56:32.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BalanceHud.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\View\\BalanceHud.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\View\\BalanceHud.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\View\\BalanceHud.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\View\\BalanceHud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:29:39.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShopSlotUnit.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\PopupSystem\\Scripts\\ShopSlotUnit.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\PopupSystem\\Scripts\\ShopSlotUnit.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\PopupSystem\\Scripts\\ShopSlotUnit.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\PopupSystem\\Scripts\\ShopSlotUnit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:55:06.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameView.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\View\\GameView.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\View\\GameView.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\View\\GameView.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\View\\GameView.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:42:07.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PopupWindowShop.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\PopupSystem\\Scripts\\PopupWindowShop.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\PopupSystem\\Scripts\\PopupWindowShop.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\PopupSystem\\Scripts\\PopupWindowShop.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\PopupSystem\\Scripts\\PopupWindowShop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABQwEYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:54:07.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StringUtil.cs",
+              "DocumentMoniker": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Utils\\StringUtil.cs",
+              "RelativeDocumentMoniker": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Utils\\StringUtil.cs",
+              "ToolTip": "D:\\Unity\\IdleCounter\\Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Utils\\StringUtil.cs",
+              "RelativeToolTip": "Assets\\AleksandrGorodiski\\IdleCounterTerrorists\\Scripts\\Utils\\StringUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:38:05.479Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
